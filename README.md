@@ -6,7 +6,7 @@ Vision Improvement Proposals (VIPs) describe standards for the Vision platform, 
 
 ## Contents
  * [VIPs](#vips)
-    * [TIPs Guide](#vips-guide)
+    * [VIPs Guide](#vips-guide)
     * [To Submit a VIP](#to-submit-a-tip)
     * [VIP Status](#vip-status)
     * [VIP Types](#vip-types)
@@ -25,7 +25,7 @@ Before you submit a VIP, you need to create an issue for comment and add the iss
 
 1.&nbsp;Fork the repository by clicking "Fork" in the top right.  
 
-2.&nbsp;Add your VIP to your fork of the repository. There is a [VIP template](https://github.com/tronprotocol/VIPs/blob/master/template.md) here.  
+2.&nbsp;Add your VIP to your fork of the repository. There is a [VIP template](https://github.com/vision-consensus/VIPs/blob/master/template.md) here.  
 
 3.&nbsp;Submit a Pull Request to Vision's VIPs repository.
 
