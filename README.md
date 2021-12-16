@@ -17,6 +17,8 @@ Vision Improvement Proposals (VIPs) describe standards for the Vision platform, 
 
 |  ID    | Title  | Author | Type | Category | Hard&nbsp;fork | Status |
 |  ----  | ----   | :----:   | :----: | :----: | :----:  | :----: |
+|  01    | SpreadMint  | Jerry |  | Core | Hard | done |
+|  ----  | ----   | :----:   | :----: | :----: | :----:  | :----: |
 ****
 
 ## To Submit a VIP
