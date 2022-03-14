@@ -28,7 +28,7 @@ TOTAL_PHOTON_LIMIT(51); // 1_000_000_000L, [0, 1000_000_000_000L]
 ...
 }
 ```
-The proposal code is 61 and its initial value is set 1,000,000,000. The valid range of TOTAL_PHOTON_LIMIT parameter is [0, 1000,000,000,000].
+The proposal code is 51 and its initial value is set 1,000,000,000. The valid range of TOTAL_PHOTON_LIMIT parameter is [0, 1000,000,000,000].
 
 ## Rationale
 
