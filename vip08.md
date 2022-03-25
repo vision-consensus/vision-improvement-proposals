@@ -14,7 +14,7 @@ This VIP will add two proposals to adjust the pledge rate and optimize JsonRpc a
 
 ## Abstract
 
-At present, the withdrawal amount of the transaction info for withdraw transaction does not separate, we need to separate the withdrawal amount, and the spreadMint pledge amount does not participate in the calculation of the entire network pledge rate, it will affect the pledge rate and inflation rate of the entire network and other parameters. 
+There are two types of the WithdrawBalance transaction, namely SPREAD_MINT and ALL. At present, the withdrawal amount of the transaction info for withdraw transaction does not separate, we need to separate the withdrawal amount, and the spreadMint pledge amount does not participate in the calculation of the entire network pledge rate, it will affect the pledge rate and inflation rate of the entire network and other parameters. 
 So we propose to separate the withdrawal amount and allow the SpreadMint participate the calculation of pledge rate parameter.
 
 Then, for failed transactions on the chain, the blockHash, transactionLog, gasUsed, transactionIndex and other fields of the transaction cannot be queried through the eth_getTransactionReceipt method. In the new version, we optimize this method so that you can query more complete information
