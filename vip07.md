@@ -1,5 +1,5 @@
 ```
-vip: 06
+vip: 07
 title: Add three proposals to adjust the pledge period or clear vote
 author: Darylc
 status: Final
