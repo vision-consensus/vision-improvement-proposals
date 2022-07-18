@@ -37,7 +37,7 @@ Before you submit a VIP, you need to create an issue for comment and add the iss
 
 1.&nbsp;Fork the repository by clicking "Fork" in the top right.  
 
-2.&nbsp;Add your VIP to your fork of the repository. There is a [VIP template](https://github.com/vision-consensus/VIPs/blob/master/template.md) here.  
+2.&nbsp;Add your VIP to your fork of the repository. There is a [VIP template](https://github.com/vision-consensus/vision-improvement-proposals/blob/main/template.md) here.  
 
 3.&nbsp;Submit a Pull Request to Vision's VIPs repository.
 
