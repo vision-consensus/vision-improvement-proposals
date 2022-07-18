@@ -15,8 +15,20 @@ Vision Improvement Proposals (VIPs) describe standards for the Vision platform, 
 ## VIPs Guide 
 
 
-|  ID    | Title  | Author | Type | Category | Hard&nbsp;fork | Status |
-|  ----  | ----   | :----:   | :----: | :----: | :----:  | :----: |
+| ID     | Title                                            |        Author        | Type | Category | Hard&nbsp;fork | Status |
+|--------|--------------------------------------------------|:--------------------:| :----: |:--------:| :----:  | :----: |
+| VIP 01 | SpreadMint                                       | darylc9527@gmail.com | Standards Track  |   Core   | true | Final |
+| VIP 02     | Ethereum Transaction Compatible                  | darylc9527@gmail.com | Standards Track  |   Core   | true | Final |
+| VIP 03     | Vision Economy Model                             | darylc9527@gmail.com | Standards Track  |   Core   | true | Final |
+| VIP 04     | Sort Witness not by block                        | darylc9527@gmail.com | Standards Track  |   Core   | true | Final |
+| VIP 05     | JSON RPC                                         | darylc9527@gmail.com | Standards Track  |   API    | true | Final |
+| VIP 06     | Adjust the total photon limit                    | darylc9527@gmail.com | Standards Track  |   API    | true | Final |
+| VIP 07     | Adjust the pledge period or clear vote           | darylc9527@gmail.com | Standards Track  |   CORE   | true | Final |
+| VIP 08     | Adjust the pledge rate and optimize JsonRpc apis | darylc9527@gmail.com | Standards Track  |   API    | true | Final |
+| VIP 09     | JsonRpc API optimize                             | darylc9527@gmail.com | Standards Track  |   API    | true | Final |
+| VIP 20     | VRC-20 Token Standard                            | darylc9527@gmail.com | Standards Track  |   VRC    | true | Final |
+| VIP 721    | VRC-721 Non-Fungible Token Standard              | darylc9527@gmail.com | Standards Track  |   VRC    | true | Final |
+| ----   | ----                                             |        :----:        | :----: |  :----:  | :----:  | :----: |
 ****
 
 ## To Submit a VIP
