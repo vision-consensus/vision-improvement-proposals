@@ -4,7 +4,7 @@ title: Multi-stage freeze and vote weighting
 author: Darylc
 status: Final
 type: Standards Track
-category:  VORE
+category:  CORE
 created: 2022-10-17
 ``` 
 
